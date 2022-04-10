@@ -1,5 +1,10 @@
 package com.example.leetcode.sword;
 
+import com.example.leetcode.common.ListNode;
+
+/**
+ * 倒数第k个节点
+ */
 public class GetKthFromEnd {
     public ListNode getKthFromEnd(ListNode head, int k) {
         ListNode cur = head;

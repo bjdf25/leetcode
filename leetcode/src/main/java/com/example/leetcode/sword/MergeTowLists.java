@@ -1,5 +1,10 @@
 package com.example.leetcode.sword;
 
+import com.example.leetcode.common.ListNode;
+
+/**
+ * 合并两个有序链表
+ */
 public class MergeTowLists {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode res = new ListNode(0);

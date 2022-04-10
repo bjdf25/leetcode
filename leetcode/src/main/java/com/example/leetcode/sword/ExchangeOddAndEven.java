@@ -1,5 +1,8 @@
 package com.example.leetcode.sword;
 
+/**
+ * 数组中奇数在前，偶数在后
+ */
 public class ExchangeOddAndEven {
 
     public int[] exchange(int[] nums) {
