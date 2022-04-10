@@ -1,4 +1,4 @@
-package sword;
+package com.example.leetcode.sword;
 
 public class ListNode {
         int val;

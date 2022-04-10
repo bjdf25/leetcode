@@ -1,4 +1,4 @@
-package sword;
+package com.example.leetcode.sword;
 
 public class GetKthFromEnd {
     public ListNode getKthFromEnd(ListNode head, int k) {

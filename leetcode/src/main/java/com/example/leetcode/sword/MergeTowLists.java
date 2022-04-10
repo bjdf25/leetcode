@@ -1,4 +1,4 @@
-package sword;
+package com.example.leetcode.sword;
 
 public class MergeTowLists {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
