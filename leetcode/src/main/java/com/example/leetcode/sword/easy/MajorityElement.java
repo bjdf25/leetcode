@@ -1,4 +1,4 @@
-package com.example.leetcode.sword;
+package com.example.leetcode.sword.easy;
 
 /**
  * 数组中出现次数超过一半的数字

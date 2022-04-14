@@ -1,4 +1,4 @@
-package com.example.leetcode.sword;
+package com.example.leetcode.sword.easy;
 
 /**
  * 顺时针打印矩阵

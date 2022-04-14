@@ -1,4 +1,4 @@
-package com.example.leetcode.sword;
+package com.example.leetcode.sword.easy;
 
 /**
  * 数组中奇数在前，偶数在后

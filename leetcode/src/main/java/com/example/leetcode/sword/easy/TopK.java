@@ -1,4 +1,4 @@
-package com.example.leetcode.sword;
+package com.example.leetcode.sword.easy;
 
 import java.util.Arrays;
 
