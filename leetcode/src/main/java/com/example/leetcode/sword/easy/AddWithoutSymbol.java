@@ -1,4 +1,4 @@
-package com.example.leetcode.sword;
+package com.example.leetcode.sword.easy;
 
 /**
  * 不用加减乘除做加法

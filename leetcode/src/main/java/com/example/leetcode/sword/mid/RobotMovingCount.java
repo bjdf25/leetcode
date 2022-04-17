@@ -1,4 +1,4 @@
-package com.example.leetcode.sword;
+package com.example.leetcode.sword.mid;
 
 public class RobotMovingCount {
     int res = 0;

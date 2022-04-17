@@ -1,4 +1,4 @@
-package com.example.leetcode.sword;
+package com.example.leetcode.sword.mid;
 
 import com.example.leetcode.common.TreeNode;
 

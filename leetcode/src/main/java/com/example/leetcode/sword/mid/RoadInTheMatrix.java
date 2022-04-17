@@ -1,4 +1,4 @@
-package com.example.leetcode.sword;
+package com.example.leetcode.sword.mid;
 
 /**
  * 矩阵中的路径
